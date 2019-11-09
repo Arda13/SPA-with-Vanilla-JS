@@ -1,0 +1,15 @@
+{
+  "name": "vitus",
+  "version": "1.0.0",
+  "description": "vitus için websitesi",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Arda",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
